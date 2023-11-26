@@ -1,0 +1,1 @@
+Calculator works on both keyboard and screen
